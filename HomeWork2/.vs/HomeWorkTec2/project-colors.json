@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07e5d8aa-d3ff-47b9-aa7e-b76784c6c7f6": {
+      "ProjectGuid": "07e5d8aa-d3ff-47b9-aa7e-b76784c6c7f6",
+      "DisplayName": "HomeWorkTec2",
+      "ColorIndex": 0
+    },
+    "910f2d40-6ea3-47fd-8848-06ca1b71207b": {
+      "ProjectGuid": "910f2d40-6ea3-47fd-8848-06ca1b71207b",
+      "DisplayName": "HomeWorkTec2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
