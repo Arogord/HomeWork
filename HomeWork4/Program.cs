@@ -103,8 +103,8 @@ namespace HomeWork4
         }
         public static void ArrayInfo(int[] arr)
         {
-            int minIntegger;
-            int maxIntegger;
+            int minIntegger = arr[0];
+            int maxIntegger = arr [0];
             int summ = 0;
             for (int i = 0; i < arr.Length; i++)
             {
@@ -120,8 +120,8 @@ namespace HomeWork4
         }
         public static void ArrayInfo(int[,] arr)
         {
-            int minIntegger;
-            int maxIntegger;
+            int minIntegger = arr[0,0];
+            int maxIntegger = arr[0, 0];
             int summ = 0;
             for (int j = 0; j < arr.GetLength(0); j++)
             {

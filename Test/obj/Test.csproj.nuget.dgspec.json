@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VisualStudioProject\\HomeWork\\HomeWorkTec2\\Test\\Test\\Test.csproj": {}
+    "C:\\VisualStudioProject\\HomeWork\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\VisualStudioProject\\HomeWork\\HomeWorkTec2\\Test\\Test\\Test.csproj": {
+    "C:\\VisualStudioProject\\HomeWork\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VisualStudioProject\\HomeWork\\HomeWorkTec2\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\VisualStudioProject\\HomeWork\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\VisualStudioProject\\HomeWork\\HomeWorkTec2\\Test\\Test\\Test.csproj",
+        "projectPath": "C:\\VisualStudioProject\\HomeWork\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Arogord\\.nuget\\packages\\",
-        "outputPath": "C:\\VisualStudioProject\\HomeWork\\HomeWorkTec2\\Test\\Test\\obj\\",
+        "outputPath": "C:\\VisualStudioProject\\HomeWork\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

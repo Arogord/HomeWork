@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HomeWorkTec2
+namespace HomeWork2
 
 {
     internal class Program

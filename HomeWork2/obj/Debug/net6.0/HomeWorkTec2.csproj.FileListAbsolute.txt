@@ -1,0 +1,14 @@
+C:\VisualStudioProject\HomeWork\HomeWork2\bin\Debug\net6.0\HomeWorkTec2.exe
+C:\VisualStudioProject\HomeWork\HomeWork2\bin\Debug\net6.0\HomeWorkTec2.deps.json
+C:\VisualStudioProject\HomeWork\HomeWork2\bin\Debug\net6.0\HomeWorkTec2.runtimeconfig.json
+C:\VisualStudioProject\HomeWork\HomeWork2\bin\Debug\net6.0\HomeWorkTec2.dll
+C:\VisualStudioProject\HomeWork\HomeWork2\bin\Debug\net6.0\ref\HomeWorkTec2.dll
+C:\VisualStudioProject\HomeWork\HomeWork2\bin\Debug\net6.0\HomeWorkTec2.pdb
+C:\VisualStudioProject\HomeWork\HomeWork2\obj\Debug\net6.0\HomeWorkTec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProject\HomeWork\HomeWork2\obj\Debug\net6.0\HomeWorkTec2.AssemblyInfoInputs.cache
+C:\VisualStudioProject\HomeWork\HomeWork2\obj\Debug\net6.0\HomeWorkTec2.AssemblyInfo.cs
+C:\VisualStudioProject\HomeWork\HomeWork2\obj\Debug\net6.0\HomeWorkTec2.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\HomeWork\HomeWork2\obj\Debug\net6.0\HomeWorkTec2.dll
+C:\VisualStudioProject\HomeWork\HomeWork2\obj\Debug\net6.0\ref\HomeWorkTec2.dll
+C:\VisualStudioProject\HomeWork\HomeWork2\obj\Debug\net6.0\HomeWorkTec2.pdb
+C:\VisualStudioProject\HomeWork\HomeWork2\obj\Debug\net6.0\HomeWorkTec2.genruntimeconfig.cache

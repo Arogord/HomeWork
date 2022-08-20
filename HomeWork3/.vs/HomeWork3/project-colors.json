@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e6a6608-59ca-4bfe-ab69-46d288e25191": {
+      "ProjectGuid": "0e6a6608-59ca-4bfe-ab69-46d288e25191",
+      "DisplayName": "HomeWork3",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c7b1dc51-af78-424e-a7b3-db66562dcd23": {
+      "ProjectGuid": "c7b1dc51-af78-424e-a7b3-db66562dcd23",
+      "DisplayName": "HomeWork3",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
