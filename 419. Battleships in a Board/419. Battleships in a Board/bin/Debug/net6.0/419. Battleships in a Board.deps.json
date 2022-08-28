@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "419. Battleships in a Board/1.0.0": {
+        "runtime": {
+          "419. Battleships in a Board.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "419. Battleships in a Board/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

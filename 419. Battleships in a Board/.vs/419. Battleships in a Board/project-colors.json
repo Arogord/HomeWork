@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15c8e221-5cd8-4d83-b644-66781d3a6dac": {
+      "ProjectGuid": "15c8e221-5cd8-4d83-b644-66781d3a6dac",
+      "DisplayName": "419. Battleships in a Board",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

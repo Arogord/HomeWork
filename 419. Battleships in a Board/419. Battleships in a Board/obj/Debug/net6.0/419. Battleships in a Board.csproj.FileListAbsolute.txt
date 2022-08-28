@@ -1,0 +1,15 @@
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\bin\Debug\net6.0\419. Battleships in a Board.exe
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\bin\Debug\net6.0\419. Battleships in a Board.deps.json
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\bin\Debug\net6.0\419. Battleships in a Board.runtimeconfig.json
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\bin\Debug\net6.0\419. Battleships in a Board.dll
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\bin\Debug\net6.0\ref\419. Battleships in a Board.dll
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\bin\Debug\net6.0\419. Battleships in a Board.pdb
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\obj\Debug\net6.0\419. Battleships in a Board.csproj.AssemblyReference.cache
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\obj\Debug\net6.0\419. Battleships in a Board.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\obj\Debug\net6.0\419. Battleships in a Board.AssemblyInfoInputs.cache
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\obj\Debug\net6.0\419. Battleships in a Board.AssemblyInfo.cs
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\obj\Debug\net6.0\419. Battleships in a Board.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\obj\Debug\net6.0\419. Battleships in a Board.dll
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\obj\Debug\net6.0\ref\419. Battleships in a Board.dll
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\obj\Debug\net6.0\419. Battleships in a Board.pdb
+C:\VisualStudioProject\HomeWork\419. Battleships in a Board\419. Battleships in a Board\obj\Debug\net6.0\419. Battleships in a Board.genruntimeconfig.cache
