@@ -15,22 +15,29 @@ namespace HomeWork5
             ExchangeRates.Add(ex);
         }
         public void AddExchangeRates(ExchangeRate[] ex) 
-        { 
+        {
+            
             foreach(ExchangeRate ex2 in ex)
             {
                 ExchangeRates.Add(ex2);
             }
+
+            //ExchangeRates.AddRange(ex); еще более короткий вариант
         }
 
 
 
         public bool TryDeleteExchangeRate(Currencies firstCurrency, Currencies secondCurrency)
         {
-            if(FindExchangeRate(firstCurrency, secondCurrency) != null)
+            if (FindExchangeRate(firstCurrency, secondCurrency) != null)
             {
                 ExchangeRates.Remove(FindExchangeRate(firstCurrency, secondCurrency));
                 return true;
-            }else return false;
+            }
+            else
+            {
+                return false;
+            }
               //
         } //– попытка найти и удалить ExchangeRate из ExchangeRates;
 
@@ -38,7 +45,7 @@ namespace HomeWork5
         {
             foreach (ExchangeRate ex in ExchangeRates)
             {
-                if((ex.FirstCurrency==firstCurrency && ex.SecondCurrency == secondCurrency) || (ex.FirstCurrency == secondCurrency) &&(ex.SecondCurrency == firstCurrency))
+                if((ex.FirstCurrency==firstCurrency && ex.SecondCurrency == secondCurrency) || (ex.FirstCurrency == secondCurrency && ex.SecondCurrency == firstCurrency))
                 {
                     return ex;
                 }
@@ -65,7 +72,7 @@ namespace HomeWork5
             ExchangeRate exchange;
             if (exchangeFind != null)
             {
-                exchange = new ExchangeRate(CurrencyFirst, CurrencySecond, count);
+                exchange = new ExchangeRate(CurrencyFirst, CurrencySecond);
                 if (exchangeFind.FirstCurrency == CurrencyFirst && exchangeFind.SecondCurrency == CurrencySecond)
                 {
                     exchange.CurrencyCount = count;

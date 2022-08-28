@@ -4,6 +4,8 @@
     {
         static void Main()
         {
+
+
             CurrencyConverter currencyConverter = new CurrencyConverter();
 
             //Заполнение массива случайных валют случайными числами
