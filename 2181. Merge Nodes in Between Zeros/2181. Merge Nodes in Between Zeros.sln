@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2181. Merge Nodes in Between Zeros", "2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros.csproj", "{1C373D51-7415-4BC0-85A3-E830C14ABB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C373D51-7415-4BC0-85A3-E830C14ABB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C373D51-7415-4BC0-85A3-E830C14ABB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C373D51-7415-4BC0-85A3-E830C14ABB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C373D51-7415-4BC0-85A3-E830C14ABB45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A23784C0-FFC9-4D78-A483-4EF268681A44}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2391. Minimum Amount of Time to Collect Garbage/1.0.0": {
+        "runtime": {
+          "2391. Minimum Amount of Time to Collect Garbage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2391. Minimum Amount of Time to Collect Garbage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

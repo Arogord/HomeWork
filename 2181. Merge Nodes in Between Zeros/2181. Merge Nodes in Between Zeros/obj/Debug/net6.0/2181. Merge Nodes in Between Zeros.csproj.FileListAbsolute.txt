@@ -1,0 +1,15 @@
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\obj\Debug\net6.0\2181. Merge Nodes in Between Zeros.csproj.AssemblyReference.cache
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\obj\Debug\net6.0\2181. Merge Nodes in Between Zeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\obj\Debug\net6.0\2181. Merge Nodes in Between Zeros.AssemblyInfoInputs.cache
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\obj\Debug\net6.0\2181. Merge Nodes in Between Zeros.AssemblyInfo.cs
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\obj\Debug\net6.0\2181. Merge Nodes in Between Zeros.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\bin\Debug\net6.0\2181. Merge Nodes in Between Zeros.exe
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\bin\Debug\net6.0\2181. Merge Nodes in Between Zeros.deps.json
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\bin\Debug\net6.0\2181. Merge Nodes in Between Zeros.runtimeconfig.json
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\bin\Debug\net6.0\2181. Merge Nodes in Between Zeros.dll
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\bin\Debug\net6.0\ref\2181. Merge Nodes in Between Zeros.dll
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\bin\Debug\net6.0\2181. Merge Nodes in Between Zeros.pdb
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\obj\Debug\net6.0\2181. Merge Nodes in Between Zeros.dll
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\obj\Debug\net6.0\ref\2181. Merge Nodes in Between Zeros.dll
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\obj\Debug\net6.0\2181. Merge Nodes in Between Zeros.pdb
+C:\VisualStudioProject\HomeWork\2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros\obj\Debug\net6.0\2181. Merge Nodes in Between Zeros.genruntimeconfig.cache

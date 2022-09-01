@@ -1,0 +1,15 @@
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\bin\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.exe
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\bin\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.deps.json
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\bin\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.runtimeconfig.json
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\bin\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.dll
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\bin\Debug\net6.0\ref\2391. Minimum Amount of Time to Collect Garbage.dll
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\bin\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.pdb
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\obj\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.csproj.AssemblyReference.cache
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\obj\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\obj\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.AssemblyInfoInputs.cache
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\obj\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.AssemblyInfo.cs
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\obj\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\obj\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.dll
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\obj\Debug\net6.0\ref\2391. Minimum Amount of Time to Collect Garbage.dll
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\obj\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.pdb
+C:\VisualStudioProject\HomeWork\2391. Minimum Amount of Time to Collect Garbage\2391. Minimum Amount of Time to Collect Garbage\obj\Debug\net6.0\2391. Minimum Amount of Time to Collect Garbage.genruntimeconfig.cache
