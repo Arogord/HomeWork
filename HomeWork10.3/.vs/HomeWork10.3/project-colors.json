@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05c383d0-646c-4337-acab-a26910d9dc61": {
+      "ProjectGuid": "05c383d0-646c-4337-acab-a26910d9dc61",
+      "DisplayName": "HomeWork10.3",
+      "ColorIndex": 0
+    },
+    "d345f2f5-bd14-4afa-a240-a5f28dfbd603": {
+      "ProjectGuid": "d345f2f5-bd14-4afa-a240-a5f28dfbd603",
+      "DisplayName": "HomeWork10.2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

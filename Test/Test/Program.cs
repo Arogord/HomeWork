@@ -6,29 +6,21 @@ namespace Test
     {
         public static void Main()
         {
+            Some<int> som = new Some<int>();
+            Some<int>.staticvalue = 10;
             
-            // variant 1
-            using(MyFileStream fs = new MyFileStream()) 
-            {
-            }
-            // variant 2
-            MyFileStream fs2 = new MyFileStream();
-            try
-            {
-
-            }
-            finally
-            {
-                fs2.Dispose();
-            }
         }
+        
+        
     }
-    public class MyFileStream : IDisposable
+    public class Some<T>
     {
-        private readonly IntPtr _handle;
-        public void Dispose()
+        public T value;
+        public static T staticvalue;
+        static Some()
         {
-            Marshal.FreeHGlobal(_handle);
+            Console.WriteLine("static ctor");
         }
     }
+    
 }
